@@ -1,1 +1,1 @@
-# NeetCode !50 problem and solution
+# NeetCode 50 problem and solution
